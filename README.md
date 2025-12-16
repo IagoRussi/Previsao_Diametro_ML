@@ -27,4 +27,8 @@ poetry install
 poetry env activate
 
 ### 4. Execute a aplicação
-streamlit run src/projeto_ml/app.py
+streamlit run "Caminho-da-aplicação.py"
+
+---
+
+Ao abrir o Streamlit no navegador, o usuário deverá informar o diâmetro da pizza, digitar o valor e pressionar Enter. Em seguida, o sistema processará os dados e exibirá o resultado automaticamente.
