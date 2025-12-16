@@ -27,7 +27,7 @@ poetry install
 poetry env activate
 
 ### 4. Execute a aplicação
-streamlit run "Caminho-da-aplicação.py"
+poetry streamlit run "Caminho-da-aplicação.py"
 
 ---
 
